@@ -1,0 +1,113 @@
+[{
+	"location": "Вход",
+	"numberOnMap": "1",
+	"locationHref": "/www_ru/locations/entrance.html"
+}, {
+	"location": "Парковка",
+	"numberOnMap": "2",
+	"locationHref": "/www_ru/locations/parkingarea.html"
+}, {
+	"location": "Гостиница",
+	"numberOnMap": "5",
+	"locationHref": "/www_ru/locations/hotel.html"
+}, {
+	"location": "Игровая комната Admiral Kids Club",
+	"numberOnMap": "6",
+	"locationHref": "/www_ru/locations/admiralkidsclub.html"
+}, {
+	"location": "Домик для проживания Admiral Kids Club",
+	"numberOnMap": "7",
+	"locationHref": "/www_ru/locations/admiralkidsclubcottage.html"
+}, {
+	"location": "Пейнтбольное поле",
+	"numberOnMap": "8",
+	"locationHref": "/www_ru/locations/paintball.html"
+}, {
+	"location": "Тир",
+	"numberOnMap": "9",
+	"locationHref": "/www_ru/locations/shootinggallery.html"
+}, {
+	"location": "Горка «Адреналин»",
+	"numberOnMap": "10",
+	"locationHref": "/www_ru/locations/adrenaline.html"
+}, {
+	"location": "Веревочный парк «Лазалка»",
+	"numberOnMap": "11",
+	"locationHref": "/www_ru/locations/ropepark.html"
+}, {
+	"location": "Батут для самых маленьких",
+	"numberOnMap": "13",
+	"locationHref": "/www_ru/locations/bouncycastle.html"
+}, {
+	"location": "Location Nome 14",
+	"numberOnMap": "14",
+	"locationHref": "/www_ru/locations/single_page_location_14.html"
+}, {
+	"location": "Летняя терраса «Лесное озеро»",
+	"numberOnMap": "15",
+	"locationHref": "/www_ru/locations/summerterrace.html"
+}, {
+	"location": "Летние бассейны и бар",
+	"numberOnMap": "17",
+	"locationHref": "/www_ru/locations/summerswimming.html"
+}, {
+	"location": "Летняя терраса «Корица»",
+	"numberOnMap": "21",
+	"locationHref": "/www_ru/locations/koritsaterrace.html"
+}, {
+	"location": "Белая терраса",
+	"numberOnMap": "22",
+	"locationHref": "/www_ru/locations/whiteterrace.html"
+}, {
+	"location": "Конференц-центр.  Боулинг.  Бильярд",
+	"numberOnMap": "23",
+	"locationHref": "/www_ru/locations/hallbowlingbilliards.html"
+}, {
+	"location": "Пицца",
+	"numberOnMap": "24",
+	"locationHref": "/www_ru/locations/pizza.html"
+}, {
+	"location": "Летняя терраса «Жемчужный городок»",
+	"numberOnMap": "25",
+	"locationHref": "/www_ru/locations/pearltownsummerterrace.html"
+}, {
+	"location": "Магазин Grand Décor",
+	"numberOnMap": "26",
+	"locationHref": "/www_ru/locations/granddecorshop.html"
+}, {
+	"location": "Магазин «Лавка фермера»",
+	"numberOnMap": "27",
+	"locationHref": "/www_ru/locations/farmershop.html"
+}, {
+	"location": "Ресторан Mozart",
+	"numberOnMap": "28",
+	"locationHref": "/www_ru/locations/mozartrestaurant.html"
+}, {
+	"location": "Wellness & SPA",
+	"numberOnMap": "28",
+	"locationHref": "/www_ru/locations/spa.html"
+}, {
+	"location": "Альпийская деревня",
+	"numberOnMap": "29",
+	"locationHref": "/www_ru/locations/alpinevillage.html"
+}, {
+	"location": "Колесный парк",
+	"numberOnMap": "31",
+	"locationHref": "/www_ru/locations/quadpark.html"
+}, {
+	"location": "Колесный парк",
+	"numberOnMap": "14",
+	"locationHref": "/www_ru/locations/minicars.html"
+}, {
+	"location": "Теннисные корты и спортивные площадки",
+	"numberOnMap": "32",
+	"locationHref": "/www_ru/locations/tennissportground.html"
+}, {
+	"location": "Детская игровая площадка",
+	"numberOnMap": "33",
+	"locationHref": "/www_ru/locations/playground.html"
+}, {
+	"location": "Конные прогулки",
+	"numberOnMap": "34",
+	"locationHref": "/www_ru/locations/pony.html"
+}]
