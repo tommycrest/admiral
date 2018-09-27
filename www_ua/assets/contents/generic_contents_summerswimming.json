@@ -1,0 +1,33 @@
+{
+	"label_map":"Мапа",
+	"label_event":"Подія",
+	"label_location":"Локація",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Час роботи",
+	"location_name":"Літні басейни і бар",
+	"location_telephone":"Тел. + 380 (44) 393 33 60",
+	"location_telephone_alt":"Тел. + 380 (67) 448 68 98",
+	"location_working":"з 28 квітня до закінчення теплого сезону з 9:00 до 21:00",
+	"location_working_ind":"",
+	"location_working_cold":"",
+	"location_description":"До послуг гостей:",
+	"location_description_1":"",
+	"location_description_2":"",
+	"location_description_3":"",
+	"location_description_4":"",
+	"location_description_elencos": [
+		{"name":"18-метровий відкритий басейн з протитечією"},
+		{"name":"2 дитячих відкритих басейни з підігрівом"},
+		{"name":"басейн для малюків глибиною 0,4 м"},
+		{"name":"лежаки, парасольки, рушники"},
+		{"name":"літні турецькі альтанки біля великого басейну"},
+		{"name":"бар з коктейлями і легкими закусками"}
+	],
+	"location_description_elenco":"",
+	"location_image":"/www_ua/assets/location/17.png",
+	"location_thumbnail": "/www_ua/assets/grandadmiralphoto/Summerswimmingpoolspoolsidebar.png",
+	"location_bias":"summerswimming",
+	"location_link":"",
+	"location_order":""
+}

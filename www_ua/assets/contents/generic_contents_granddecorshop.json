@@ -1,0 +1,18 @@
+{
+	"label_map":"Мапа",
+	"label_event":"Подія",
+	"label_location":"Локація",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Час роботи",
+	"location_name":"Магазин Grand Décor",
+	"location_telephone":"Тел. + 380 (67) 469 01 71",
+	"location_working":"з 11.00 до 19.00, щодня",
+	"location_description":"Тут можна купити оригінальний подарунок, знайти ексклюзив для домашнього інтер'єру, поповнити запаси органічної косметики, ароматів для дому та оновити гардероб.",
+	"location_description_elenco":"",
+	"location_image":"/www_ua/assets/location/26.png",
+	"location_thumbnail": "/www_ua/assets/grandadmiralphoto/GrandDecorshop.png",
+	"location_bias":"grandecorshop",
+	"location_link":"http://shop.admiralclub.com.ua",
+	"location_order":"Онлайн-замовлення"
+}

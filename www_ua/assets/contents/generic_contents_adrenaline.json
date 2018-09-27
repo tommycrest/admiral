@@ -1,0 +1,17 @@
+{
+	"label_map":"Мапа",
+	"label_event":"Подія",
+	"label_location":"Локація",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Час роботи",
+	"location_name":"Гірка «Адреналін»",
+	"location_telephone":"Тел. + 380 (67) 216 44 54",
+	"location_working":"щодня з 10.00 до 21.00 у теплу пору року",
+	"location_working_cold":"з 10.00 до 18.00 у холодну",
+	"location_description":"Захоплююча пригода для дітей та дорослих. Стрімке катання на «плюшках» обіцяє море задоволення, а спеціальне покриття забезпечить спуск з вітерцем у будь-яку пору року.",
+	"location_description_elenco":"",
+	"location_image":"/www_ua/assets/location/10.png",
+	"location_thumbnail": "/www_ua/assets/grandadmiralphoto/AdrenalineSlide.png",
+	"location_bias":"adrenaline"
+}

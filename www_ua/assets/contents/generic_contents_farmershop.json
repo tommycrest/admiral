@@ -1,0 +1,18 @@
+{
+	"label_map":"Мапа",
+	"label_event":"Подія",
+	"label_location":"Локація",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Час роботи",
+	"location_name":"Магазин «Лавка фермера»",
+	"location_telephone":"Тел. + 380 (67) 219 41 66",
+	"location_working":"з 11.00 до 19.00, щодня",
+	"location_description":"Домашні варення і соління, фермерські смаколики зі свіжих і абсолютно натуральних продуктів за перевіреними часом і ексклюзивними рецептами. Італійська паста, ковбаси, продукція з коптильні, чудовий мед і трав'яні чаї.",
+	"location_description_elenco":"",
+	"location_image":"/www_ua/assets/location/27.png",
+	"location_thumbnail": "/www_ua/assets/grandadmiralphoto/FarmerShop.png",
+	"location_bias":"farmershop",
+	"location_link":"http://shop.admiralclub.com.ua",
+	"location_order":"Онлайн-замовлення"
+}

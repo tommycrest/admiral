@@ -1,0 +1,30 @@
+{
+	"label_map":"Мапа",
+	"label_event":"Подія",
+	"label_location":"Локація",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Час роботи",
+	"location_name":"Готель",
+	"location_telephone":"Тел. + 380 (67) 219 41 49",
+	"location_telephone_alt":"Тел. + 380 (44) 393 33 57",
+	"location_working":"цілодобово",
+	"location_working_ind":"",
+	"location_description":"Двоповерхова будівля в мальовничому центрі Клубу, в якому розташовані номери Стандарт, Бізнес  та Бізнес Люкс. До послуг гостей:",
+	"location_description_1":"",
+	"location_description_2":"",
+	"location_description_3":"",
+	"location_description_4":"",
+	"location_description_elencos": [
+		{"name":"Рецепція (час заїзду - 14:00, час виїзду - 12:00)"},
+		{"name":"Кораловий і Срібний зали ресторану"},
+		{"name":"Конференц-зал «Лагуна»"},
+		{"name":"Конференц-зал Boardroom"}
+	],
+	"location_description_elenco":"",
+	"location_image":"/www_ua/assets/location/5.png",
+	"location_thumbnail": "/www_ua/assets/grandadmiralphoto/hotel.png",
+	"location_bias":"hotel",
+	"location_link":"",
+	"location_order":""
+}

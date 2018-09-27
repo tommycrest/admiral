@@ -1,0 +1,22 @@
+{
+	"label_map":"Мапа",
+	"label_event":"Подія",
+	"label_location":"Локація",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Час роботи",
+	"location_name":"Ігрова кімната Admiral Kids Club",
+	"location_telephone":"Tel. + 380 (67) 216 44 54",
+	"location_working":"з 10.00 до 22.00, щодня",
+	"location_description":"Місце на першому поверсі будівлі Wellness & SPA, де можна шуміти, грати і веселитися. До послуг гостей:",
+	"location_description_elencos": [
+		{"name":"babysitter, індивідуальні прогулянки на свіжому повітрі"},
+		{"name":"анімаційні програми вихідного дня"},
+		{"name":"ігровий лабіринт «Пірати»"},
+		{"name":"творчі майстерні: прикраси, розпис, декор, іграшки"},
+		{"name":"Дитячі Дні Народження, шкільні канікули"}
+	],
+	"location_image":"/www_ua/assets/location/28.png",
+	"location_thumbnail": "/www_ua/assets/grandadmiralphoto/AdmiralKidsClub.png",
+	"location_bias":"admiralkidsclub"
+}
