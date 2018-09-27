@@ -1,0 +1,110 @@
+[{
+    "location": "Entrance",
+	"numberOnMap" : "1",
+    "locationHref": "/www_en/locations/entrance.html"
+}, {
+    "location": "Parking Area",
+	"numberOnMap" : "2",
+    "locationHref": "/www_en/locations/parkingarea.html"
+}, {
+    "location": "Hotel",
+	"numberOnMap" : "5",
+    "locationHref": "/www_en/locations/hotel.html"
+},{
+    "location": "Admiral Kids Club",
+	"numberOnMap" : "6",
+    "locationHref": "/www_en/locations/admiralkidsclub.html"
+}, {
+    "location": "Admiral Kids Club Cottage",
+	"numberOnMap" : "7",
+    "locationHref": "/www_en/locations/admiralkidsclubcottage.html"
+}, {
+    "location": "Paintball",
+	"numberOnMap" : "8",
+    "locationHref": "/www_en/locations/paintball.html"
+}, {
+    "location": "Shooting Gallery",
+	"numberOnMap" : "9",
+    "locationHref": "/www_en/locations/shootinggallery.html"
+}, {
+    "location": "Adrenaline",
+	"numberOnMap" : "10",
+    "locationHref": "/www_en/locations/adrenaline.html"
+}, {
+    "location": "Rope Park",
+	"numberOnMap" : "11",
+    "locationHref": "/www_en/locations/ropepark.html"
+}, {
+    "location": "Bouncycastle",
+	"numberOnMap" : "13",
+    "locationHref": "/www_en/locations/bouncycastle.html"
+}, {
+    "location": "Summer Terrace",
+	"numberOnMap" : "15",
+    "locationHref": "/www_en/locations/summerterrace.html"
+}, {
+    "location": "Summer Swimming",
+	"numberOnMap" : "17",
+    "locationHref": "/www_en/locations/summerswimming.html"
+}, {
+    "location": "Koritsa Terrace",
+	"numberOnMap" : "21",
+    "locationHref": "/www_en/locations/koritsaterrace.html"
+}, {
+    "location": "White Terrace",
+	"numberOnMap" : "22",
+    "locationHref": "/www_en/locations/whiteterrace.html"
+}, {
+    "location": "Conference Hall, Bowling and Russian Billiards",
+	"numberOnMap" : "23",
+    "locationHref": "/www_en/locations/hallbowlingbilliards.html"
+}, {
+    "location": "Pizza",
+	"numberOnMap" : "24",
+    "locationHref": "/www_en/locations/pizza.html"
+}, {
+    "location": "Pearl Town Summer Terrace",
+	"numberOnMap" : "25",
+    "locationHref": "/www_en/locations/pearltownsummerterrace.html"
+}, {
+    "location": "Grand Decor Shop",
+	"numberOnMap" : "26",
+    "locationHref": "/www_en/locations/granddecorshop.html"
+}, {
+    "location": "Farmer Shop",
+	"numberOnMap" : "27",
+    "locationHref": "/www_en/locations/farmershop.html"
+}, {
+    "location": "Mozart Restaurant",
+	"numberOnMap" : "28",
+    "locationHref": "/www_en/locations/mozartrestaurant.html"
+}, {
+    "location": "Wellness & SPA",
+	"numberOnMap" : "28",
+    "locationHref": "/www_en/locations/spa.html"
+}, {
+    "location": "Alpine Village",
+	"numberOnMap" : "29",
+    "locationHref": "/www_en/locations/alpinevillage.html"
+}, {
+    "location": "Quad Park",
+	"numberOnMap" : "31",
+    "locationHref": "/www_en/locations/quadpark.html"
+},{
+    "location": "Mini Cars",
+	"numberOnMap" : "14",
+    "locationHref": "/www_en/locations/minicars.html"
+}, {
+    "location": "Tennis Sports Ground",
+	"numberOnMap" : "32",
+    "locationHref": "/www_en/locations/tennissportground.html"
+}, {
+    "location": "Playground",
+	"numberOnMap" : "33",
+    "locationHref": "/www_en/locations/playground.html"
+}, {
+    "location": "Horse Riding",
+	"numberOnMap" : "34",
+    "locationHref": "/www_en/locations/pony.html"
+}
+]

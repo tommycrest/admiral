@@ -1,0 +1,209 @@
+<!doctype>
+<html lang="en">
+	<head>
+		<title>Grand Admiral Resort & SPA </title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<!-- link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" crossorigin="anonymous"/ -->
+		 <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../css/admiral.css" crossorigin="anonymous"/>
+		 <!-- Scrollbar Custom CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+		
+		<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+		<script type="text/javascript" src="../vendor/handlebars/handlebars-v4.0.11.js"></script>
+	</head>
+	<body>
+	<script id="some-template" type="text/x-handlebars-template">
+	<div class="wrapper">
+            <!-- Sidebar Holder -->
+            <nav id="sidebar">
+                <div class="sidebar-header">
+                    <h3>{{label_title}}</h3>
+                </div>
+
+                <ul class="list-unstyled components">
+                    <p>{{label_menu}}</p>
+                    <li class="active">
+                        <a href="../index.html">{{label_map}}</a>
+                    </li>
+                    <li>
+                        <a href="../events.html">{{label_event}}</a>
+					</li>
+					<li>
+                        <a href="../locations.html" aria-expanded="false">{{label_location}}</a>
+                    </li>
+                </ul>
+
+                
+            </nav>
+
+            <!-- Page Content Holder -->
+            <div id="content"style="margin:0 auto; width:100%;">
+
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+
+                        <div class="navbar-header">
+                            <button type="button" id="sidebarCollapse" class="navbar-btn">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </button>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a href="../index.html">{{label_map}}</a></li>
+                                <li><a href="../events.html">{{label_event}}</a></li>
+                                <li><a href="../locations.html">{{label_location}}</a></li>
+                               
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+
+                <h2>Map</h2>
+				<img class="img-fluid" src="../assets/map/map.png"  usemap="#imgmap2018619105016" ismap="ismap" alt="Admiral Map">
+				<map id="imgmap2018619105016" name="imgmap2018619105016">
+					<area shape="rect" alt="" title="" coords="440,104,476,143" href="../locations/summerterrace.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="273,198,308,238" href="../locations/minicars.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="390,241,424,276" href="http://www.yahoo.com" target="_self" />
+					<area shape="rect" alt="" title="" coords="328,281,377,317" href="../locations/bouncycastle.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="513,310,548,346" href="../locations/summerswimming.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="612,266,643,311" href="../locations/koritsaterrace.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="753,196,792,234" href="../locations/whiteterrace.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="881,227,918,260" href="../locations/granddecorshop.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="926,229,962,260" href="../locations/farmershop.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="718,298,761,332" href="../locations/hallbowlingbilliards.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="688,351,728,400" href="../locations/pizza.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="612,409,654,454" href="http://www.microsoft.com" target="_self" />
+					<area shape="rect" alt="" title="" coords="331,396,368,439" href="http://www.eurotlx.com" target="_self" />
+					<area shape="rect" alt="" title="" coords="422,393,466,437" href="http://www.google.com/finance" target="_self" />
+					<area shape="rect" alt="" title="" coords="763,438,816,485" href="../locations/pearltownsummerterrace.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="491,519,535,553" href="http://www.sole24.it" target="_self" />
+					<area shape="rect" alt="" title="" coords="593,555,644,600" href="../locations/hotel.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="509,598,546,639" href="../locations/admiralkidsclub.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="342,568,384,613" href="../locations/admiralkidsclubcottage.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="247,521,291,569" href="../locations/adrenaline.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="258,638,300,685" href="../locations/shootinggallery.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="677,613,727,670" href="http://www.milan.com" target="_self" />
+					<area shape="rect" alt="" title="" coords="386,781,431,834" href="../locations/paintball.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="829,842,872,891" href="../locations/entrance.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="754,670,806,723" href="http://www.digitas.com" target="_self" />
+					<area shape="rect" alt="" title="" coords="888,816,921,868" href="../locations/parkingarea.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1011,646,1058,695" href="../locations/alpinevillage.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="900,449,940,491" href="../locations/spa.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1250,297,1290,338" href="../locations/playground.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1291,141,1339,193" href="../locations/pony.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1397,167,1435,226" href="http://www.unitn.it" target="_self" />
+					<area shape="rect" alt="" title="" coords="1333,410,1381,464" href="../locations/tennissportground.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1313,584,1357,635" href="../locations/quadpark.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1175,708,1230,766" href="http://www.skyscanner.com" target="_self" />
+					<area shape="rect" alt="" title="" coords="160,447,203,497" href="../locations/ropepark.html" target="_self" />
+				</map>
+                <div class="line"></div>
+				
+				<div class="container">
+				<h1>Admirals Resort Location Name</h1>
+				<div class="row row-flex">
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-1">
+					  <h3></h3>
+					  <p>Location image</p>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-2">
+					  <h3></h3>
+					  <p>Location description</p>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-3">
+					  <h3>{{label_working_time}}</h3>
+					  <p>from - to</p>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-4" style="border: 1px solid red;">
+					  <p style="padding:5px 5px 5px 5px;text-align:center;"><a href="tel:+393249044458">+39 324 904 44 58</a></p>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-5">
+					  <h3>Fifth column</h3>
+					  <p>Normal content.</p>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-6">
+					  <h3>Sixth column</h3>
+					  <p>Normal content.</p>
+					</div>
+				  </div>
+				</div>
+				</div>
+			 </div>
+        </div>
+		</script>
+		
+	<!-- <script src="vendor/jquery/jquery.min.js" crossorigin="anonymous"></script>
+    <script src="vendor/popper/popper.min.js" crossorigin="anonymous"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js" crossorigin="anonymous" ></script> -->
+	<!-- jQuery CDN 
+         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+         <!-- Bootstrap Js CDN -->
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+	<!-- script src="script/admiral.js"></script -->
+	<script type="text/javascript">
+	function getQSParam(ParamName) {
+	  QS=window.location.toString(); 
+	  var indSta=QS.indexOf(ParamName); 
+	  if (indSta==-1 || ParamName=="") return null; 
+	  var indEnd=QS.indexOf('&amp;',indSta); 
+	  if (indEnd==-1) indEnd=QS.length; 
+	  var valore = unescape(QS.substring(indSta+ParamName.length+1,indEnd)); 
+	  return valore; 
+	  }
+	</script>
+	<script type="text/javascript">
+             $(document).ready(function () {
+                 $('#sidebarCollapse').on('click', function () {
+                     $('#sidebar').toggleClass('active');
+                     $(this).toggleClass('active');
+                 });
+				 
+				var eventReq = getQSParam("q");
+				console.log(eventReq);
+				
+				var source = $("#some-template").html(); 
+				var template = Handlebars.compile(source);
+				
+				 /* Content for the page creation */
+				$.getJSON("/assets/contents/generic_contents.json",function(data){
+					var data_json = data;
+					$('body').append(template(data_json));
+				});
+				
+				/**
+				 Chiamate Json verso la rest di Admiral Club
+				 quando attiva
+				$.getJSON("https://admiralclub.com.ua/events/"+eventReq, function(data){ 
+	
+					$('body').append(template(data));
+					
+				}).error(function(jqXHR, textStatus, errorThrown){  assign handler 
+					 alert(jqXHR.responseText) 
+					alert("error occurred!");
+				});*/
+				
+             });
+         </script>
+
+	</body>
+</html>
