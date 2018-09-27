@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<style>
+		body {
+			font-family: Arial;
+		}
+		.wrapper-button {
+		text-align: center;
+		margin: 10px auto;
+		
+		}
+		.wrapper-logo {
+			min-height: 200px;
+			width: 100%;
+			text-align: center;
+		}
+
+		.button {
+			width: 100%;
+			top: 50%;
+			background-color: #f44336; 
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;	
+		}
+	</style>
+    <title>Gran Admiral Resort & Spa</title>
+	<script type="text/javascript">
+	function goToLang(lang) {
+		if( lang === "ua") {
+			location.target = "_blank";
+			location.href="/www_ua/index.html";
+		} else if( lang === "ru") {
+			location.target = "_blank";
+			location.href="/www_ru/index.html";
+		} else if( lang === "en") {
+			location.target = "_blank";
+			location.href="/www_en/index.html"
+		}
+ 	}
+	</script>
+  </head>
+  <body>
+	<div class="wrapper-logo">
+		<img src="admiral.png" alt="grand admiral logo" style="margin: 0 auto;"/>
+	</div>
+	<div class="wrapper-button">
+		<p>Gran Admiral Resort & Spa</p>
+	</div>
+	<div class="warpper">
+	
+		<div class="wrapper-button">
+			<button class="button" onclick="javascript:goToLang('ua')" target="_blank"><img src="ukraine.png"></img></button>
+		</div>
+		<div class="wrapper-button">
+			<button class="button" onclick="javascript:goToLang('ru')" target="_blank"><img src="russia.png"></img></button>
+		</div>
+		<div class="wrapper-button">
+			<button class="button" onclick="javascript:goToLang('en')" target="_blank"><img src="uk.png"></button>
+		</div>
+	</div>
+  </body>
+</html>
