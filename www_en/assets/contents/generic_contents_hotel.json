@@ -1,0 +1,32 @@
+{
+	"label_map":"Map",
+	"label_event":"Event",
+	"label_location":"Location",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Menu",
+	"label_working_time":"Working Time",
+	"label_contact_phone":"Telephone",
+	"location_name":"The Hotel",
+	"location_telephone":"Tel. + 380 (67) 219 41 49",
+	"location_telephone_alt":"Tel. + 380 (44) 393 33 57",
+	"location_working":"24/7",
+	"location_working_ind":"",
+	"location_description":"Two-story building in the picturesque center of the Club, which houses Standard and Business rooms and Business Suites. The Hotel offers:",
+	"location_description_1":"",
+	"location_description_2":"",
+	"location_description_3":"",
+	"location_description_4":"",
+	"location_description_elencos": [
+		{"name":"Reception (check-in time 02:00 p.m., check-out time 12:00 p.m.)"},
+		{"name":"Coral and Silver Restaurant Halls"},
+		{"name":"Laguna Conference Hall"},
+		{"name":"Pirates Game Maze"},
+		{"name":"Boardroom Conference Hall"}
+	],
+	"location_description_elenco":"",
+	"location_image":"/www_en/assets/location/5.png",
+	"location_thumbnail": "/www_en/assets/grandadmiralphoto/hotel.png",
+	"location_bias":"hotel",
+	"location_link":"",
+	"location_order":""
+}

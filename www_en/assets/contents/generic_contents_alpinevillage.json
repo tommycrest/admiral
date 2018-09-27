@@ -1,0 +1,17 @@
+{
+	"label_map":"Map",
+	"label_event":"Event",
+	"label_location":"Location",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Menu",
+	"label_working_time":"Working Time",
+	"label_contact_phone":"Telephone",
+	"location_name":"Alpine Village",
+	"location_telephone":"Теl. +380 (44) 393 33 57",
+	"location_working":"24/7",
+	"location_description":"The cottage town with beautiful buildings surrounded by fountains in a cozy area with cobbled walkways and benches. Located in a quiet pine grove that provides our guests perfect silence and tranquility. The Alpine Village offers Junior Suites, Suites, Cottages Suites and Pine House.",
+	"location_description_elenco":"",
+	"location_image":"/www_en/assets/location/29.png",
+	"location_thumbnail": "/www_en/assets/grandadmiralphoto/AlpineVillage.png",
+	"location_bias":"alpinevillage"
+}

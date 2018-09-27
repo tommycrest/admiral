@@ -1,0 +1,19 @@
+{
+	"label_map":"Map",
+	"label_event":"Event",
+	"label_location":"Location",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Menu",
+	"label_working_time":"Working Time",
+	"label_contact_phone":"Telephone",
+	"location_name":"Farmer's Shop",
+	"location_telephone":"Tel. + 380 (67) 219 41 66",
+	"location_working":"From 11.00 a.m. to 07.00 p.m., daily",
+	"location_description":"Homemade jams and pickles, farmer's delicacies of fresh and absolutely natural products, time-proved exclusive recipes. Italian pasta, sausages, smokehouse products, wonderful honey and herbal teas.",
+	"location_description_elenco":"",
+	"location_image":"/www_en/assets/location/27.png",
+	"location_thumbnail": "/www_en/assets/grandadmiralphoto/FarmerShop.png",
+	"location_bias":"farmershop",
+	"location_link":"http://shop.admiralclub.com.ua",
+	"location_order":"Order Online"
+}
