@@ -1,0 +1,32 @@
+{
+	"label_map":"Map",
+	"label_event":"Event",
+	"label_location":"Location",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Menu",
+	"label_working_time":"Working Time",
+	"label_contact_phone":"Telephone",
+	"location_name":"Tennis courts and sports grounds",
+	"location_telephone":"Tel. + 380 (67) 448 69 25",
+	"location_telephone_alt":"",
+	"location_working":"From 08.00 a.m. to 08.00 p.m., daily in the summer season",
+	"location_working_ind":"",
+	"location_working_cold":"",
+	"location_description":"8 tennis courts with high-quality ground coating. Services for guests:",
+	"location_description_1":"",
+	"location_description_2":"",
+	"location_description_3":"",
+	"location_description_4":"",
+	"location_description_elencos": [
+		{"name":"Fields for mini-football, volleyball, badminton"},
+		{"name":"Weekday camp for adults and children"},
+		{"name":"Children's Sports Academy (3-8 years)"},
+		{"name":"Coaching Services"}
+	],
+	"location_description_elenco":"",
+	"location_image":"/www_en/assets/location/32.png",
+	"location_thumbnail": "/www_en/assets/grandadmiralphoto/Tennissportsgrounds.png",
+	"location_bias":"tennissportsground",
+	"location_link":"",
+	"location_order":""
+}

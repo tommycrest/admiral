@@ -1,0 +1,32 @@
+{
+	"label_map":"Map",
+	"label_event":"Event",
+	"label_location":"Location",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Menu",
+	"label_working_time":"Working Time",
+	"label_contact_phone":"Telephone",
+	"location_name":"Horseback Riding",
+	"location_telephone":"Tel. + 380 (67) 216 44 54",
+	"location_telephone_alt":"",
+	"location_working":"From 10.00 a.m. to 08.00 p.m., daily",
+	"location_working_ind":"",
+	"location_working_cold":"",
+	"location_description":"Horseback riding for experienced riders and beginners under the guidance of an experienced instructor. The Club offers:",
+	"location_description_1":"",
+	"location_description_2":"",
+	"location_description_3":"",
+	"location_description_4":"",
+	"location_description_elencos": [
+		{"name":"horse riding in the arena"},
+		{"name":"photo shooting with horses"},
+		{"name":"weekend animation programs"},
+		{"name":"pony riding for children"}
+	],
+	"location_description_elenco":"",
+	"location_image":"/www_en/assets/location/34.png",
+	"location_thumbnail": "/www_en/assets/grandadmiralphoto/Horseriding.png",
+	"location_bias":"horseriding",
+	"location_link":"",
+	"location_order":""
+}

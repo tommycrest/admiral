@@ -1,0 +1,18 @@
+{
+	"label_map":"Map",
+	"label_event":"Event",
+	"label_location":"Location",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Menu",
+	"label_working_time":"Working Time",
+	"label_contact_phone":"Telephone",
+	"location_name":"Adrenaline Slide",
+	"location_telephone":"Tel. + 380 (67) 216 44 54",
+	"location_working":"daily from 10.00 a.m. to 09.00 p.m. in the warm season",
+	"location_working_cold":"from 10.00 a.m. to 06.00 p.m. in the cold season",
+	"location_description":"An exciting adventure for children and adults. Breath-taking 'tubing' promises a lot of fun, due to its special cover you will be enjoying a descent with the wind in your hair at any time of the year.",
+	"location_description_elenco":"",
+	"location_image":"/www_en/assets/location/10.png",
+	"location_thumbnail": "/www_en/assets/grandadmiralphoto/AdrenalineSlide.png",
+	"location_bias":"adrenaline"
+}

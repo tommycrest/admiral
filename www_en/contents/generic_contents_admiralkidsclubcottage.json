@@ -1,0 +1,17 @@
+{
+	"label_map":"Map",
+	"label_event":"Event",
+	"label_location":"Location",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Menu",
+	"label_working_time":"Working Time",
+	"label_contact_phone":"Telephone",
+	"location_name":"Admiral Kids Club House",
+	"location_telephone":"Tel. + 380 (67) 216 44 54",
+	"location_working":"during the official school holidays",
+	"location_description":"Autumn, winter, spring and summer holidays for children aged 8-12 with accommodation, catering, swimming, active games and creative master classes, under the guidance of experienced teachers, coaches, and animators. New acquaintances, true friendship and sincere joy for our young guests.",
+	"location_description_elenco":"",
+	"location_image":"/www_en/assets/location/7.png",
+	"location_thumbnail": "/www_en/assets/grandadmiralphoto/KidsCottage.png",
+	"location_bias":"kidscottage"
+}

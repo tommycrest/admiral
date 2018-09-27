@@ -1,0 +1,23 @@
+{
+	"label_map":"Map",
+	"label_event":"Event",
+	"label_location":"Location",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Menu",
+	"label_working_time":"Working Time",
+	"label_contact_phone":"Telephone",
+	"location_name":"Conference Centre. Bowling. Russian billiards",
+	"location_telephone":"Tel. + 380 (44) 393 33 58",
+	"location_telephone_alt":"Tel. + 380 (44) 393 33 57",
+	"location_working":"individually for every event",
+	"location_working_ind":"individually on request, for Russian billiards",
+	"location_description":"Admiral Grand Hall with an area of 242 sq. m.  Capacity: up to 200 people in theatre style and up to 120 for a banquet. High ceilings, natural light, stationary podium-stage and availability of dressing rooms make this place versatile.",
+	"location_description_1":"Admiral Grand Hall with an area of 242 sq. m.  Capacity: up to 200 people in theatre style and up to 120 for a banquet. High ceilings, natural light, stationary podium-stage and availability of dressing rooms make this place versatile.",
+	"location_description_2":"Cinema Hall with an area of 45 sq. m. accommodates up to 40 people in theatrical style. It is perfect for small trainings, conferences and master classes.",
+	"location_description_3":"Black, Red and Fireplace Banquet Halls",
+	"location_description_4":"The Bowling is represented by two lanes, guests are provided with spare footwear for children and adults. Russian billiards on two tables, equipped according to the rules.",
+	"location_description_elenco":"",
+	"location_image":"/www_en/assets/location/23.png",
+	"location_thumbnail": "/www_en/assets/grandadmiralphoto/Conferencecenterbowlingbilliards.png",
+	"location_bias":"conference"
+}
