@@ -1,0 +1,16 @@
+{
+	"label_map":"Карта",
+	"label_event":"Событие",
+	"label_location":"Локация",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Время работы",
+	"location_name":"Батут для самых маленьких",
+	"location_telephone":"Тел. + 380 (67) 216 44 54",
+	"location_working":"с 1 мая по 30 сентября, с 10.00 до 20.00",
+	"location_description":"Дети любят прыгать на батуте, а прыжки ускоряют обмен веществ – поэтому маленькие гости Клуба активные, здоровые и в радостном настроении.",
+	"location_description_elenco":"",
+	"location_image":"/www_ru/assets/location/13.png",
+	"location_thumbnail": "/www_ru/assets/grandadmiralphoto/BouncyCastle.jpg",
+	"location_bias":"bouncycastle"
+}

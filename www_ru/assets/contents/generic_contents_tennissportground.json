@@ -1,0 +1,31 @@
+{
+	"label_map":"Карта",
+	"label_event":"Событие",
+	"label_location":"Локация",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Время работы",
+	"location_name":"Теннисные корты и спортивные площадки",
+	"location_telephone":"Тел. + 380 (67) 448 69 25",
+	"location_telephone_alt":"",
+	"location_working":"с 8.00 до 20.00, ежедневно в летний сезон",
+	"location_working_ind":"",
+	"location_working_cold":"",
+	"location_description":"8 теннисных кортов с высококачественным грунтовым покрытием. Услуги для гостей:",
+	"location_description_1":"",
+	"location_description_2":"",
+	"location_description_3":"",
+	"location_description_4":"",
+	"location_description_elencos": [
+		{"name":"Поля для мини-футбола, волейбола, бадминтона"},
+		{"name":"Кемп буднего дня для взрослых и для детей"},
+		{"name":"Детская спортивная академия (3-8 лет)"},
+		{"name":"Услуги тренеров"}
+	],
+	"location_description_elenco":"",
+	"location_image":"/www_ru/assets/location/32.png",
+	"location_thumbnail": "/www_ru/assets/grandadmiralphoto/Tennissportsgrounds.png",
+	"location_bias":"tennissportsground",
+	"location_link":"",
+	"location_order":""
+}

@@ -1,0 +1,17 @@
+{
+	"label_map":"Карта",
+	"label_event":"Событие",
+	"label_location":"Локация",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Время работы",
+	"location_name":"Горка «Адреналин»",
+	"location_telephone":"Тел. + 380 (67) 216 44 54",
+	"location_working":"ежедневно с 10.00 до 21.00 в теплое время года",
+	"location_working_cold":"с 10.00 до 18.00 в холодное",
+	"location_description":"Захватывающее приключение для детей и взрослых. Стремительное катание на «плюшках» обещает море удовольствия, а специальное покрытие обеспечит спуск с ветерком в любое время года.",
+	"location_description_elenco":"",
+	"location_image":"/www_ru/assets/location/10.png",
+	"location_thumbnail": "/www_ru/assets/grandadmiralphoto/AdrenalineSlide.png",
+	"location_bias":"adrenaline"
+}

@@ -1,0 +1,22 @@
+{
+	"label_map":"Карта",
+	"label_event":"Событие",
+	"label_location":"Локация",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Время работы",
+	"location_name":"Конференц-центр.  Боулинг.  Бильярд",
+	"location_telephone":"Tel. + 380 (44) 393 33 58",
+	"location_telephone_alt":"Tel. + 380 (44) 393 33 57",
+	"location_working":"индивидуально по запросу Боулинг и Русский бильярд",
+	"location_working_ind":"индивидуально под мероприятие",
+	"location_description":"Гранд Холл «Адмирал» площадью 242 кв. м. Вместительность: до 200 человек в театральном стиле и до 120 – в банкетном. Высокие потолки, натуральное освещение, стационарный подиум-сцена и наличие гримерных делает его универсальным.",
+	"location_description_1":"Зал «Кинотеатр» площадью 45 кв. м вмещает до 40 человек в театральном стиле. Целесообразно для небольших тренингов, конференций и мастер-классов.",
+	"location_description_2":"Боулинг представлен двумя дорожками, к услугам гостей сменная обувь для детей и взрослых.",
+	"location_description_3":"Русский бильярд на двух столах, оборудованных по всем правилам.",
+	"location_description_4":"",
+	"location_description_elenco":"",
+	"location_image":"/www_ru/assets/location/23.png",
+	"location_thumbnail": "/www_ru/assets/grandadmiralphoto/Conferencecenterbowlingbilliards.png",
+	"location_bias":"conference"
+}

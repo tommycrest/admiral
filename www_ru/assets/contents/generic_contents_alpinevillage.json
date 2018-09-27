@@ -1,0 +1,17 @@
+{
+	"label_map":"Карта",
+	"label_event":"Событие",
+	"label_location":"Локация",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Время работы",
+	"location_name":"Альпийская деревня",
+	"location_telephone":"Тел. +380 (44) 393 33 57",
+	"location_telephone_alt":"Тел. + 380 (67) 219 41 49",
+	"location_working":"круглосуточно",
+	"location_description":"Коттеджный городок из красивых зданий объединен вокруг фонтанов и уютной зоны с мощеными дорожками и лавочками. Расположен в тихой сосновой роще, что обеспечивает полную тишину и спокойствие гостям. В Альпийской деревне расположены номера Полулюкс, Люкс, Коттедж Люкс и Сосновый дом.",
+	"location_description_elenco":"",
+	"location_image":"/www_ru/assets/location/29.png",
+	"location_thumbnail": "/www_ru/assets/grandadmiralphoto/AlpineVillage.png",
+	"location_bias":"alpinevillage"
+}

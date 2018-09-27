@@ -1,0 +1,16 @@
+{
+	"label_map":"Карта",
+	"label_event":"Событие",
+	"label_location":"Локация",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Время работы",
+	"location_name":"Домик для проживания Admiral Kids Club",
+	"location_telephone":"Тел. + 380 (67) 216 44 54",
+	"location_working":"в период официальных школьных каникул",
+	"location_description":"Осенние, зимние, весенние и летние каникулы для детей 8-12 лет с проживанием, питанием, плаванием, подвижными играми и творческими мастер-классами, под руководством опытных преподавателей, тренеров и аниматоров. Новые знакомства, настоящая дружба и искренняя радость юных гостей.",
+	"location_description_elenco":"",
+	"location_image":"/www_ru/assets/location/7.png",
+	"location_thumbnail": "/www_ru/assets/grandadmiralphoto/KidsCottage.png",
+	"location_bias":"kidscottage"
+}

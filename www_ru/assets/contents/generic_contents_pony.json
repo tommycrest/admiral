@@ -1,0 +1,30 @@
+{
+	"label_map":"Карта",
+	"label_event":"Событие",
+	"label_location":"Локация",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Время работы",
+	"location_name":"Конные прогулки",
+	"location_telephone":"Тел. + 380 (67) 216 44 54",
+	"location_telephone_alt":"",
+	"location_working":"с 10.00 до 20.00, ежедневно",
+	"location_working_ind":"",
+	"location_working_cold":"",
+	"location_description":"Прогулки на лошадях для наездников с опытом  и начинающих под руководством опытного инструктора. К услугам гостей:",
+	"location_description_1":"",
+	"location_description_2":"",
+	"location_description_3":"",
+	"location_description_4":"",
+	"location_description_elencos": [
+		{"name":"прогулки в манеже"},
+		{"name":"фотосессии с лошадьми"},
+		{"name":"катание детей на пони"}
+	],
+	"location_description_elenco":"",
+	"location_image":"/www_ru/assets/location/34.png",
+	"location_thumbnail": "/www_ru/assets/grandadmiralphoto/Horseriding.png",
+	"location_bias":"horseriding",
+	"location_link":"",
+	"location_order":""
+}

@@ -1,0 +1,18 @@
+{
+	"label_map":"Карта",
+	"label_event":"Событие",
+	"label_location":"Локация",
+	"label_title":"Grand AdmiralClub Resort & SPA",
+	"label_menu":"Меню",
+	"label_working_time": "Время работы",
+	"location_name":"Магазин «Лавка фермера»",
+	"location_telephone":"Тел. + 380 (67) 219 41 66",
+	"location_working":"с 11.00 до 19.00, ежедневно",
+	"location_description":"Домашние варенья и соленья, фермерские вкусности из свежих и абсолютно натуральных продуктов по проверенным временем и эксклюзивным рецептам. Итальянская паста, колбасы, продукция из коптильни, чудесный мед и травяные чаи.",
+	"location_description_elenco":"",
+	"location_image":"/www_ru/assets/location/27.png",
+	"location_thumbnail": "/www_ru/assets/grandadmiralphoto/FarmerShop.png",
+	"location_bias":"farmershop",
+	"location_link":"http://shop.admiralclub.com.ua",
+	"location_order":"Онлайн-заказ"
+}
