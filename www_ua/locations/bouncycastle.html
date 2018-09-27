@@ -1,0 +1,200 @@
+<!doctype>
+<html lang="en">
+	<head>
+		<title>Grand Admiral Resort & SPA </title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<!-- link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" crossorigin="anonymous"/ -->
+		 <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../css/admiral.css" crossorigin="anonymous"/>
+		 <!-- Scrollbar Custom CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+		<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+		<script type="text/javascript" src="vendor/handlebars/handlebars-v4.0.11.js"></script>
+	</head>
+	<body>
+	<!-- Handlebars template engine declaration -->
+	<script id="some-template" type="text/x-handlebars-template">
+	<!-- Handlebars template engine declaration -->
+	<div class="wrapper">
+            <!-- Sidebar Holder -->
+            <nav id="sidebar">
+                <div class="sidebar-header">
+                    <h3>{{label_title}}</h3>
+                </div>
+
+                <ul class="list-unstyled components">
+                    <p>{{label_menu}}</p>
+                    <li>
+                        <a href="../index.html">{{label_map}}</a>
+                    </li>
+                    <!-- li>
+                        <a href="events.html">{{label_event}}</a>
+					</li -->
+					<li  class="active">
+                        <a href="../locations.html" aria-expanded="false">{{label_location}}</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <!-- Page Content Holder -->
+            <div id="content"style="margin:0 auto; width:100%;">
+
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+
+                        <div class="navbar-header">
+							<button type="button" id="sidebarCollapse" class="navbar-btn" onclick="sideSlide();">
+								<span></span>
+								<span></span>
+								<span></span>
+							</button>
+						</div>
+
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a href="../index.html">{{label_map}}</a></li>
+                                <!-- <li><a href="../events.html">{{label_event}}</a></li> -->
+                                <li><a href="../locations.html">{{label_location}}</a></li>
+                               
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+
+                <h2>{{label_map}}</h2>
+				<img class="img-fluid" src="{{location_image}}"  usemap="#imgmap2018619105016" ismap="ismap" alt="Admiral Map">
+				<map id="imgmap2018619105016" name="imgmap2018619105016">
+					<area shape="rect" alt="" title="" coords="440,104,476,143" href="/www_ua/locations/summerterrace.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="273,198,308,238" href="/www_ua/locations/minicars.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="390,241,424,276" href="#" target="_self" />
+					<area shape="rect" alt="" title="" coords="328,281,377,317" href="/www_ua/locations/bouncycastle.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="513,310,548,346" href="/www_ua/locations/summerswimming.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="612,266,643,311" href="/www_ua/locations/koritsaterrace.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="753,196,792,234" href="/www_ua/locations/whiteterrace.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="881,227,918,260" href="/www_ua/locations/granddecorshop.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="926,229,962,260" href="/www_ua/locations/farmershop.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="718,298,761,332" href="/www_ua/locations/hallbowlingbilliards.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="688,351,728,400" href="/www_ua/locations/pizza.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="612,409,654,454" href="#" target="_self" />
+					<area shape="rect" alt="" title="" coords="331,396,368,439" href="#" target="_self" />
+					<area shape="rect" alt="" title="" coords="422,393,466,437" href="/www_ua/locations/summerswimming.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="763,438,816,485" href="/www_ua/locations/pearltownsummerterrace.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="491,519,535,553" href="#" target="_self" />
+					<area shape="rect" alt="" title="" coords="593,555,644,600" href="/www_ua/locations/hotel.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="509,598,546,639" href="/www_ua/locations/playground.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="342,568,384,613" href="/www_ua/locations/admiralkidsclubcottage.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="247,521,291,569" href="/www_ua/locations/adrenaline.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="258,638,300,685" href="/www_ua/locations/shootinggallery.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="677,613,727,670" href="#" target="_self" />
+					<area shape="rect" alt="" title="" coords="386,781,431,834" href="/www_ua/locations/paintball.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="829,842,872,891" href="/www_ua/locations/entrance.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="754,670,806,723" href="#" target="_self" />
+					<area shape="rect" alt="" title="" coords="888,816,921,868" href="/www_ua/locations/parkingarea.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1011,646,1058,695" href="/www_ua/locations/alpinevillage.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="900,449,940,491" href="/www_ua/locations/spa.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1250,297,1290,338" href="/www_ua/locations/tennissportground.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1291,141,1339,193" href="/www_ua/locations/pony.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1397,167,1435,226" href="#" target="_self" />
+					<area shape="rect" alt="" title="" coords="1333,410,1381,464" href="/www_ua/locations/tennissportground.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1313,584,1357,635" href="/www_ua/locations/quadpark.html" target="_self" />
+					<area shape="rect" alt="" title="" coords="1175,708,1230,766" href="#" target="_self" />
+					<area shape="rect" alt="" title="" coords="160,447,203,497" href="/www_ua/locations/ropepark.html" target="_self" />
+				</map>
+                <div class="line"></div>
+				
+				
+				<div class="container">
+				<h1>{{location_name}}</h1>
+				<div class="row row-flex">
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-1">
+					  <img src="{{location_thumbnail}}" width="200px" height="200px" class="thumb"/>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-2">
+					  <p>{{location_description}}</p>
+					</div>
+					<div class="content colour-5">
+						<ul>
+						{{#each location_description_elencos}}
+							<li><p>{{{name}}}<p></li>
+						{{/each}}
+						</ul>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-3">
+					  <p>{{label_working_time}}</p>
+					  <p>{{location_working}}</p>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom:20px;">
+					<div class="content colour-4" style="border: 1px solid red;">
+					  <p style="padding:5px 5px 5px 5px;text-align:center; margin: 10px 10px 10px 20px;"><a href="tel:{{location_telephone}}">{{location_telephone}}</a></p>
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="content colour-5">
+						
+					</div>
+				  </div>
+				  <div class="col-md-4 col-sm-6 col-xs-12">
+					
+				  </div>
+				</div>
+				</div>
+				
+				<ul class="list-group" id="eventList">		
+				  
+				</ul>
+            </div>
+        </div>
+		<!-- Handlebars template engine declaration -->		
+		</script>
+		<!-- Handlebars template engine declaration -->
+	
+	<!-- <script src="vendor/jquery/jquery.min.js" crossorigin="anonymous"></script>
+    <script src="vendor/popper/popper.min.js" crossorigin="anonymous"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js" crossorigin="anonymous" ></script> -->
+	<!-- jQuery CDN -->
+         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+         <!-- Bootstrap Js CDN -->
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+		<script src="/www_ua/script/admiral.js"></script>
+		<script src="../vendor/handlebars/handlebars-v4.0.11.js"></script>
+		<script type="text/javascript">
+             $(document).ready(function () {
+			 
+				var source = $("#some-template").html();
+				var template = Handlebars.compile(source);
+				 
+				 /* Content for the page creation */
+				$.getJSON("/www_ua/assets/contents/generic_contents_bouncycastle.json",function(data){
+					var data_json = data;
+					$('body').append(template(data_json));
+				}); 
+				 
+				
+				$.getJSON("../script/events/events.json", function(data){ 
+					var html = [];
+		 
+					/* loop through array 
+					$.each(data, function(index, event){            
+						html.push("<li class=\"list-group-item list-group-item-linkable\"><div style=\"float:left;display:block;width:80%;vertical-align:center;height:auto; padding:0 0 0 0\"><a href=\"/event/event_page.html?q="+event.page+"\" alt=\"\">"+event.name+"</a></div><div class=\"events-item\"><svg xmlns=\"http://www.w3.org/2000/svg/\" xmlns:xlink=\"http://www.w3.org/1999/xlink/\" style=\"width:32px; height:48px;text-align:right;margin-left:100%;\" viewBox=\"0 0 50 80\" xml:space=\"preserve\"><polyline fill=\"none\" stroke=\"rgb(255,0,0)\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"0.375,0.375 45.63,38.087 0.375,75.8 \"/></svg></div><div style=\"clear:both;\"></div></li>");;
+					}); */
+						 
+					$("#eventList").html(html.join(''));
+				}).error(function(jqXHR, textStatus, errorThrown){ /* assign handler */
+					/* alert(jqXHR.responseText) */
+					alert("error occurred!");
+				});
+             });
+         </script>
+	</body>
+</html>

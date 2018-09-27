@@ -1,0 +1,110 @@
+[{
+    "location": "Bхід",
+	"numberOnMap" : "1",
+    "locationHref": "/www_ua/locations/entrance.html"
+}, {
+    "location": "Парковка",
+	"numberOnMap" : "2",
+    "locationHref": "/www_ua/locations/parkingarea.html"
+}, {
+    "location": "Готель",
+	"numberOnMap" : "5",
+    "locationHref": "/www_ua/locations/hotel.html"
+},{
+    "location": "Ігрова кімната Admiral Kids Club",
+	"numberOnMap" : "6",
+    "locationHref": "/www_ua/locations/admiralkidsclub.html"
+}, {
+    "location": "Будиночок для проживання Admiral Kids Club",
+	"numberOnMap" : "7",
+    "locationHref": "/www_ua/locations/admiralkidsclubcottage.html"
+}, {
+    "location": "Пейнтбольне поле",
+	"numberOnMap" : "8",
+    "locationHref": "/www_ua/locations/paintball.html"
+}, {
+    "location": "Тир",
+	"numberOnMap" : "9",
+    "locationHref": "/www_ua/locations/shootinggallery.html"
+}, {
+    "location": "Гірка «Адреналін»",
+	"numberOnMap" : "10",
+    "locationHref": "/www_ua/locations/adrenaline.html"
+}, {
+    "location": "Мотузковий парк «Лазалка»",
+	"numberOnMap" : "11",
+    "locationHref": "/www_ua/locations/ropepark.html"
+}, {
+    "location": "Батут для найменших",
+	"numberOnMap" : "13",
+    "locationHref": "/www_ua/locations/bouncycastle.html"
+}, {
+    "location": "Літня тераса «Лісове озеро»",
+	"numberOnMap" : "15",
+    "locationHref": "/www_ua/locations/summerterrace.html"
+}, {
+    "location": "Літні басейни і бар",
+	"numberOnMap" : "17",
+    "locationHref": "/www_ua/locations/summerswimming.html"
+}, {
+    "location": "Літня тераса «Кориця»",
+	"numberOnMap" : "21",
+    "locationHref": "/www_ua/locations/koritsaterrace.html"
+}, {
+    "location": "Біла тераса",
+	"numberOnMap" : "22",
+    "locationHref": "/www_ua/locations/whiteterrace.html"
+}, {
+    "location": "Конференц-центр.  Боулінг.  Більярд",
+	"numberOnMap" : "23",
+    "locationHref": "/www_ua/locations/hallbowlingbilliards.html"
+}, {
+    "location": "Піца",
+	"numberOnMap" : "24",
+    "locationHref": "/www_ua/locations/pizza.html"
+}, {
+    "location": "Літня тераса «Перлинне містечко»",
+	"numberOnMap" : "25",
+    "locationHref": "/www_ua/locations/pearltownsummerterrace.html"
+}, {
+    "location": "Магазин Grand Décor",
+	"numberOnMap" : "26",
+    "locationHref": "/www_ua/locations/granddecorshop.html"
+}, {
+    "location": "Магазин «Лавка фермера»",
+	"numberOnMap" : "27",
+    "locationHref": "/www_ua/locations/farmershop.html"
+}, {
+    "location": "Ресторан Mozart",
+	"numberOnMap" : "28",
+    "locationHref": "/www_ua/locations/mozartrestaurant.html"
+}, {
+    "location": "Wellness & SPA",
+	"numberOnMap" : "28",
+    "locationHref": "/www_ua/locations/spa.html"
+}, {
+    "location": "Альпійське селище",
+	"numberOnMap" : "29",
+    "locationHref": "/www_ua/locations/alpinevillage.html"
+}, {
+    "location": "Колісний парк",
+	"numberOnMap" : "31",
+    "locationHref": "/www_ua/locations/quadpark.html"
+},{
+    "location": "Колісний парк",
+	"numberOnMap" : "14",
+    "locationHref": "/www_ua/locations/minicars.html"
+}, {
+    "location": "Тенісні корти та спортивні майданчики",
+	"numberOnMap" : "32",
+    "locationHref": "/www_ua/locations/tennissportground.html"
+}, {
+    "location": "Дитячий ігровий майданчик",
+	"numberOnMap" : "33",
+    "locationHref": "/www_ua/locations/playground.html"
+}, {
+    "location": "Кінні прогулянки",
+	"numberOnMap" : "34",
+    "locationHref": "/www_ua/locations/pony.html"
+}
+]
